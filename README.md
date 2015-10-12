@@ -5,7 +5,7 @@ Javascript performance 'magic'
 
 Please, do not change anything before run. just clone the repo and run the code.
 
-##### can you tell me why ? 
+##### can you tell me why? 
 
 
 ```
